@@ -1,0 +1,52 @@
+{
+  "protocol": "XORing-O",
+  "version": "0.1",
+  "record_type": "human_task_proof",
+  "task_id": "task_001",
+  "task_type": "real_world_task",
+  "task_category": "merchant_experience",
+  "user_id": "o_user_001",
+  "o_state_required": true,
+  "o_state_verified": true,
+  "presence_proof": {
+    "ring_active": true,
+    "heartbeat_verified": true,
+    "pulse_verified": true,
+    "motion_verified": true,
+    "device_bound": true
+  },
+  "task": {
+    "title": "Visit a verified local merchant",
+    "description": "User visits a merchant location and submits structured feedback.",
+    "location_required": true,
+    "duration_required_minutes": 15,
+    "proof_required": [
+      "check_in",
+      "time_duration",
+      "feedback_submission"
+    ]
+  },
+  "submission": {
+    "check_in_verified": true,
+    "duration_minutes": 18,
+    "feedback_submitted": true,
+    "media_required": false
+  },
+  "contribution": {
+    "type": "merchant_feedback",
+    "verified": true,
+    "score": 10,
+    "poc_record_created": true
+  },
+  "aios": {
+    "record_created": true,
+    "record_type": "merchant_experience_contribution"
+  },
+  "privacy": {
+    "raw_biometric_data_exposed": false,
+    "precise_location_exposed_publicly": false,
+    "user_consent": true,
+    "minimal_proof": true
+  },
+  "timestamp": "2026-05-16T10:00:00Z"
+}
