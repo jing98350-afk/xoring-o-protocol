@@ -1,0 +1,52 @@
+{
+  "protocol": "XORing-O",
+  "version": "0.1",
+  "record_type": "ring_binding_flow",
+  "user_id": "o_user_001",
+  "device": {
+    "device_type": "XORing Ring",
+    "device_id": "xoring_ring_001",
+    "firmware_version": "0.1.0",
+    "device_bound": true
+  },
+  "binding_flow": {
+    "step_1": {
+      "name": "User Account Verification",
+      "status": "completed",
+      "description": "User account is verified before device binding."
+    },
+    "step_2": {
+      "name": "Ring Activation",
+      "status": "completed",
+      "description": "XORing Ring is activated and linked to the user account."
+    },
+    "step_3": {
+      "name": "Presence Signal Check",
+      "status": "completed",
+      "description": "Basic heartbeat, pulse, and motion signals are checked."
+    },
+    "step_4": {
+      "name": "User Consent",
+      "status": "completed",
+      "description": "User confirms consent for O State verification."
+    },
+    "step_5": {
+      "name": "O State Ready",
+      "status": "completed",
+      "description": "User can now activate O State for verified human presence."
+    }
+  },
+  "presence_proof": {
+    "ring_active": true,
+    "heartbeat_verified": true,
+    "pulse_verified": true,
+    "motion_verified": true
+  },
+  "privacy": {
+    "raw_biometric_data_exposed": false,
+    "user_consent": true,
+    "minimal_proof": true,
+    "local_processing_preferred": true
+  },
+  "timestamp": "2026-05-16T10:00:00Z"
+}
