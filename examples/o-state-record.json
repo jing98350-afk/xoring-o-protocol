@@ -1,0 +1,20 @@
+{
+  "protocol": "XORing-O",
+  "version": "0.1",
+  "record_type": "o_state_record",
+  "user_id": "o_user_001",
+  "o_state": true,
+  "presence_proof": {
+    "ring_active": true,
+    "heartbeat_verified": true,
+    "pulse_verified": true,
+    "motion_verified": true,
+    "device_bound": true
+  },
+  "privacy": {
+    "raw_biometric_data_exposed": false,
+    "user_consent": true,
+    "minimal_proof": true
+  },
+  "timestamp": "2026-05-16T10:00:00Z"
+}
