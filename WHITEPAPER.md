@@ -160,7 +160,7 @@ PoW proved machine work.
 
 POC proves human contribution.
 
-In the AI era, human judgment, real-world action, body signals, emotional state, lived experience, and creativity may also need to enter a transparent value network.
+In the AI era, human judgment, real-world action, body signals, emotional state, lived experience, 和 creativity may also need to enter a transparent value network.
 
 This is not a rejection of Bitcoin.
 
@@ -375,3 +375,44 @@ The goal is to make human activity visible and recordable.
     "user_consent": true
   }
 }
+14. Open Questions
+
+We do not claim to have all the answers.
+
+We want to ask better questions:
+
+What is real human contribution?
+How should human contribution be measured?
+How can contribution be verified without surveillance?
+How can value feedback avoid speculation?
+How should O State protect privacy?
+How can humans remain visible inside AI systems?
+How should AI agents and real humans coexist?
+What should a real-human network look like?
+
+This whitepaper is the beginning of the protocol conversation.
+
+15. Final Statement
+
+AI has Moltbook.
+Humans need O.
+
+PoW proved machine work.
+POC proves human contribution.
+
+Moltbook organizes AI agents.
+XORing organizes real humans.
+
+When content becomes infinite, verified human presence becomes scarce.
+
+O State is human presence proof.
+POC is human contribution proof.
+AIOS is a human value record.
+XORing is the physical entry point.
+
+We invite the world to help define:
+
+O
+POC
+Human Mining
+The real-human network for the AI era
