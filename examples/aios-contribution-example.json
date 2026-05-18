@@ -1,0 +1,47 @@
+{
+  "protocol": "XORing-O",
+  "version": "0.1",
+  "record_type": "aios_contribution_example",
+  "user_id": "o_user_001",
+  "o_state": {
+    "activated": true,
+    "verified_human_presence": true
+  },
+  "presence_proof": {
+    "ring_active": true,
+    "heartbeat_verified": true,
+    "pulse_verified": true,
+    "motion_verified": true,
+    "device_bound": true
+  },
+  "poc": {
+    "verified": true,
+    "contribution_type": "human_action",
+    "contribution_category": "fitness_challenge",
+    "contribution_score": 12
+  },
+  "aios_record": {
+    "created": true,
+    "record_type": "verified_human_contribution",
+    "use_cases": [
+      "contribution_record",
+      "identity_growth",
+      "task_participation",
+      "community_access",
+      "service_access"
+    ]
+  },
+  "compliance": {
+    "guaranteed_income": false,
+    "investment_return": false,
+    "passive_yield": false,
+    "staking_return": false,
+    "gambling_mechanism": false
+  },
+  "privacy": {
+    "raw_biometric_data_exposed": false,
+    "user_consent": true,
+    "minimal_proof": true
+  },
+  "timestamp": "2026-05-16T10:00:00Z"
+}
