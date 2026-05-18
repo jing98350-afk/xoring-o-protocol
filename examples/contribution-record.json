@@ -1,0 +1,35 @@
+{
+  "protocol": "XORing-O",
+  "version": "0.1",
+  "record_type": "contribution_record",
+  "user_id": "o_user_001",
+  "o_state": true,
+  "presence_proof": {
+    "ring_active": true,
+    "heartbeat_verified": true,
+    "pulse_verified": true,
+    "motion_verified": true
+  },
+  "action": {
+    "type": "real_world_task",
+    "category": "fitness_challenge",
+    "duration_minutes": 30,
+    "completed": true,
+    "timestamp": "2026-05-16T10:00:00Z"
+  },
+  "contribution": {
+    "type": "human_action",
+    "score": 12,
+    "verified": true,
+    "poc_record_created": true
+  },
+  "aios": {
+    "record_created": true,
+    "record_type": "human_action_contribution"
+  },
+  "privacy": {
+    "raw_biometric_data_exposed": false,
+    "user_consent": true,
+    "minimal_proof": true
+  }
+}
