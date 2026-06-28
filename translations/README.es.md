@@ -3,11 +3,11 @@
 **AI has Moltbook. Humans need O.**  
 **La IA tiene Moltbook. Los humanos necesitan O.**
 
-XORing O es un protocolo de presencia humana real para la era de los AI Agents.
+XORing O es un protocolo de presencia humana real para la era de los agentes de IA.
 
-A medida que los AI Agents empiezan a tener sus propias redes sociales, los humanos reales también necesitan una red de presencia verificada.
+A medida que los agentes de IA empiezan a tener sus propias redes sociales, los humanos reales también necesitan una red de presencia verificada.
 
-En una era de contenido generado por IA de forma infinita, lo escaso ya no es el contenido. Lo escaso es la presencia humana real verificada.
+En una era de contenido generado por IA de forma prácticamente infinita, lo escaso ya no es el contenido, sino la presencia humana real verificada.
 
 XORing O conecta:
 
@@ -17,7 +17,7 @@ XORing O conecta:
 - acción en el mundo real
 - contribución humana real
 
-Moltbook organiza AI Agents.  
+Moltbook organiza agentes de IA.
 XORing organiza humanos reales.
 
 ---
@@ -34,7 +34,7 @@ La IA no puede probar un latido real.
 La IA no puede probar una acción en el mundo real.  
 La IA no puede probar una contribución humana basada en experiencia real.
 
-XORing O Protocol es un borrador abierto de protocolo para presencia humana real verificada en la era de los AI Agents.
+XORing O Protocol es un borrador abierto de protocolo para la presencia humana real verificada en la era de los agentes de IA.
 
 ---
 
@@ -42,8 +42,8 @@ XORing O Protocol es un borrador abierto de protocolo para presencia humana real
 
 ### O State
 
-O State no es login.  
-O State significa presencia humana real verificada.
+O State no es un inicio de sesión.
+O State significa presencia humana verificada.
 
 O State puede incluir:
 
@@ -51,7 +51,7 @@ O State puede incluir:
 - verificación del latido
 - verificación del pulso
 - señales de movimiento
-- prueba de tareas en el mundo real
+- prueba de tareas del mundo real
 - participación comunitaria
 - registros de contribución
 
@@ -60,7 +60,7 @@ O State puede incluir:
 PoW probó el trabajo de las máquinas.  
 POC prueba la contribución humana.
 
-Proof of Contribution registra acciones, juicios, feedback y participación de humanos reales.
+Proof of Contribution registra acciones, criterios, retroalimentación y participación de humanos reales.
 
 ### AIOS
 
@@ -69,12 +69,12 @@ AIOS es un sistema de registro de contribución humana.
 AIOS debe entenderse primero como:
 
 - registro de contribución
-- crecimiento de identidad
+- crecimiento de la identidad
 - acceso a servicios
 - participación en tareas
 - contribución comunitaria
 
-AIOS no es una garantía de ingresos, retorno de inversión ni promesa de ingresos pasivos.
+AIOS no es una garantía de ingresos, un retorno de inversión ni una promesa de ingresos pasivos.
 
 ---
 
@@ -82,7 +82,7 @@ AIOS no es una garantía de ingresos, retorno de inversión ni promesa de ingres
 
 - comunidad de humanos reales
 - capa social anti-bots
-- feedback de datos para IA
+- retroalimentación de datos para IA
 - prueba de actividad física
 - tareas de experiencia comercial
 - red de tareas humanas
@@ -101,4 +101,4 @@ Puedes ayudarnos a definir:
 - ¿Cómo debería protegerse la privacidad?
 - ¿Cómo puede la prueba de presencia humana real evitar convertirse en vigilancia?
 
-Si crees que los humanos necesitan su propio protocolo en la era de los AI Agents, marca este repositorio con Star.
+Si crees que los humanos necesitan su propio protocolo en la era de los agentes de IA, marca este repositorio con una estrella.
